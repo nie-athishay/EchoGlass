@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EchoGlass</string>
+    <string name="listener_service_name">EchoGlass Music Tracker</string>
+</resources>
